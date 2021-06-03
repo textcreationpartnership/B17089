@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>All praise and glory be given to God alone. These are to certifie all whom it may concern, that the ever famous physician Gilbert Anderson, hath travelled through most part of the known world, in search of the most rare secrets of physick and chirurgery....</title>
+            <author>Anderson, Gilbert.</author>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B17089</idno><idno type="EEBO-CITATION">99888610</idno>
+  <idno type="VID">195835</idno>
+  <idno type="EEBO-PROQUEST">2264186895</idno>
+  
+            <idno type="STC">Wing A3108A</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.112.f.9[30]</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.112.f.9[81]</idno>
+            <idno type="STC">ESTC R231263</idno>
+            <idno type="PROQUEST">ocm99888610</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888610e"/>
+            <note>(EEBO-TCP ; phase 2, no. B17089)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 195835)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; E8:1[30], E8:1[82])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>All praise and glory be given to God alone. These are to certifie all whom it may concern, that the ever famous physician Gilbert Anderson, hath travelled through most part of the known world, in search of the most rare secrets of physick and chirurgery....</title>
+                  <author>Anderson, Gilbert.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1680]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title taken from caption and first lines of text.</note>
+                  <note>Wing has variation in spelling of author's name: Gilbert Andersone.</note>
+                  <note>Includes three certificates from St. Giles in the Fields, Congal in Sweden, and St. Botolph without Aldgate.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Anderson, Gilbert --  Early works to 1800.</term>
+               <term type="topical_term">Advertising --  Medicine --  Early works to 1800.</term>
+               <term type="topical_term">Medicine --  Formulae, receipts, prescriptions --  Early works to 1800.</term>
+               <term type="topical_term">Physicians --  England --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-04 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="advert_for_a_doctor">
+            <pb facs="tcp:195835:1"/>
+            <head>All <hi>Praise</hi> and <hi>Glory</hi> be given to <hi>GOD</hi> alone.</head>
+            <p>THese are to Certifie all whom it may concern, that the ever famous Physician <hi>Gilbert Anderson,</hi> hath travelled through the most part of the known World, in search of the most rate Secrets of Physick and Chirurgery, during 35 years, 12 whereof he spent in the quality of Chirurgeon to a Ship in the Wars of <hi>Candia,</hi> in which time he never made a Voyage without fighting, and yet was so happy in his undertaking, that he never dismembred any Man, neither did any dye under his Cure of their Wounds: But on the contrary, he Cured many that were to have been dismembred by others. He can speak indifferently the Language of the <hi>Turks, Moors, Italians, Spaniards, Portugals, French, Dutch, Swedes,</hi> and <hi>Danes.</hi> And for the truth of his great skill in Physick and Chirurgery, he hath inserted the three following Certificates, and could have done many more, but that he thought these sufficient to convince any reasonable Person.</p>
+            <div type="testimony">
+               <head>St. <hi>GILES</hi> in the <hi>Fields</hi> Certificate.</head>
+               <p>
+                  <hi>WE the Rector, Church wardens, and others, ancient Inhabitants of the Parish of St.</hi> Giles <hi>in the</hi> Fields, <hi>in the County of</hi> Middlesex, <hi>whose names are subscribed, do certifie, that Mr.</hi> Gilbert Anderson <hi>(during the space of Eighteen Months now last past that he hath resided here) hath (by Gods Blessing) performed many em<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nent Cures upon the Sick, Lame, and Diseased, to his great commendations: And we never heard that any of the Patients which he undertook to Cure either miss'd of Cure, or Died, by reason of any miscarriage of his Cure. For which miraculous operation and his singular Charity to the Poor, We humbly conceive him to be very deserving of employment in Physick and Chirurgery, by those who shall have occasion to make use of him. </hi>
+               </p>
+               <closer>
+                  <dateline>
+                     <hi>Witness our Hands </hi>
+                     <date>
+                        <hi>the</hi> 18th <hi>day of</hi> April, 1673.</date>
+                  </dateline>
+                  <signed>
+                     <list>
+                        <item>Nathaniel Stratton </item>
+                        <item>Henry Hobgood </item>
+                     </list>
+                     <hi>Church-wardens.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="testimony">
+               <head>
+                  <hi>CONGAL</hi> in <hi>Sweden</hi> Certificate.</head>
+               <p>
+                  <hi>WE the Burgomasters and Councellors of the City of</hi> Congal, <hi>do make known unto all Men, that the Bearer hereof, an honest, and respectful person, Doctor and Physitian,</hi> Gilbert Anderson, <hi>Inhabi<g ref="char:EOLhyphen"/>tant bere in</hi> Congal, <hi>has in Two Years time since he came here, through God's Providence, Cured many per<g ref="char:EOLhyphen"/>sons both here and in</hi> Gottenburg <hi>and</hi> Melstrand; <hi>as likewise in many other places in the said Countries, to the great admiration of us, and all others here living; likewise this aforesaid Doctor hath kept himself in an honest, sober, and godly life: And by reason he hath resolved to Travel to</hi> Denmark <hi>or elsewhere, as God and Fortune shall be pleased to call him, he hath desired this our Certificate for safety in his Travels, which we not only willingly have granted him; but likewise our respective desires with our Prayers to persons of what rank, quality or condition they may be, that this abovesaid Doctor do make his appearance before: And that they for God's sake and our sakes will be pleased to look upon him with an Eye of assistance, and to let him, without any lett or molestation, pass and repass by Sea and Land: And in so doing, we shall be obliged in any such manner, to you all, if any of you with the like honesty and civility appear before us.</hi>
+               </p>
+               <closer>
+                  <dateline>
+                     <hi>Whereunto we have put our Town Seal of</hi> Congal <date>
+                        <hi>the</hi> 18th <hi>of</hi> September, 1665.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="testimony">
+               <head>St <hi>Botolph</hi> without <hi>Aldgate</hi> Certificate.</head>
+               <p>
+                  <hi>WE the</hi> Church Wardens <hi>of the Liberty of</hi> East-Smithfield, <hi>in the Parish of St.</hi> Botolph <hi>without</hi> Aldgate <hi>in the County of</hi> Middlesex, <hi>whose Names are hereunto subscribed, do hereby certifie all Persons whom it may concern, That Mr.</hi> Gilbert Anderson <hi>Doctor, during the space of</hi> 15 <hi>Months and upwards now last past, hath by Gods Providence performed many eminent Cures, upon the sick, lame, and diseased, both in this Parish and elsewhere, to the great admiration of us all and hath also kept himself in an honest, sober, and Godly Life, neither have we heard that any of the Patients which he undertook to cure, either missed of cure, or dyed by reason of any miscarriage of his Medicines: For which wonderful and miraculous Operation, and his singular Charity to the poor, we humbly conceive him to be very deserving of Employment both in Physick and Chirurgery, by any one who shall have occasion to make use of him. </hi>
+               </p>
+               <closer>
+                  <dateline>
+                     <hi>Witness our Hands, </hi>
+                     <date>
+                        <hi>the</hi> 30th <hi>day</hi> March, 1679.</date>
+                  </dateline>
+                  <signed>
+                     <list>
+                        <item>Duell Pead, <hi>Minister.</hi>
+                        </item>
+                        <item>Thomas Fryer <hi>Church-Warden.</hi>
+                        </item>
+                        <item>Henry Fletcher <hi>Church-Warden.</hi>
+                        </item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <div type="part">
+               <pb facs="tcp:195835:2"/>
+               <p>He hath no Remedies that Cure all Diseases, for it is only God alone that Cures, or his Messenger Death that ends all Diseases; but he hath for each several Disease its proper Remedy; as for instance; he has a Remedy for the Ague which Cures it by one dose the price 2<hi>s</hi> 6<hi>d;</hi> another for the Rheum that falls from the Head on the Teeth, which Cures them in one hour, price 2<hi>s</hi> 6<hi>d;</hi> and one also for hollow Teeth, or the Worm as some call it, which Cures it in one hour, price 1<hi>s;</hi> and if the Face be swell'd as big as ones Head with the pain thereof, he hath an Ointment which Cures it in 24 hours, price 1<hi>s;</hi> and a Remedy that Cures the Kernels under the Ears in 48 hours, if they were swell'd as big as ones fist, and the party in a hot burning Feaver, price 5<hi>s;</hi> and a Remedy that cureth the black and blue Marks got by Blows, in 48 hours, price 1 <hi>s</hi> 6 <hi>d,</hi> and a pill that Cures the Collick or Griping of the Guts, in one hour, price 1 <hi>s,</hi> and a p<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aister that cureth all pains in the Body, gotten by Falls, Strains, Bruises, or Colds, but especially in the Back and Sides in three days, price 5 <hi>s,</hi> it Cures the Sciatica, or Hucklebone-gout, in a wonderful short rime. Hhe has also a Remedy against Childrens Fits, whosoever makes use of it will never be troubled with Fits, he has cured Babes of 3 weeks old of the Ague, and all other curable distempers in an admirable short time. It is too tedious to write every particular, as Stone and Gravel and all other Distempers but whoever makes use of him shall find him faithful to admiration. He gives B<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lls with directions how to use every thing.</p>
+               <p>He desires you to take notice, that he does not pretend to cure infallibly all Diseases, for no judicious Physician will pretend to that, it belonging to God alone; but he promises in the presence of Almighty God and the holy Host of Heaven, not to undertake the cure of any, but such as he has good hopes (and grounds to believe) are curable by him. As to his Experience and Knowledge in Physic, he dares ven<g ref="char:EOLhyphen"/>ture his Life to perform as great cures as any man, he not having hitherto been outdone by any Physician in <hi>Europe;</hi> and yet he confesses that the best Doctor may sometimes (though very seldom, except when the Patient's appointed Time is come) fail; and he has known ignorant persons in Physic and Chirurgery perform some Cures by accident, when very able Doctors have failed.</p>
+               <p>He hath lived ever since 1665, in the parish of St. <hi>Martins</hi> in the Fields, and St. <hi>Giles</hi> in the Fields, where the ablest Doctors of all Nations converse, who have thought it no disgrace, both here and a<g ref="char:EOLhyphen"/>broad, to ask his advice in difficult matters, and have found it good to admiration. He Cures all Di<g ref="char:EOLhyphen"/>stempers incident to Men, Women and Children, if Curable, and though he dares not presume to pretend to Infallibility, that being the Almighty's Prerogative, yet if there be any infallible Remedy, he assures you they are to be had from him (God having always been graciously pleased in an extraordinary manner to bless his weak endeavours) for he hath Cured such as have languished under the <hi>Evil</hi> 18, nay 25 years, in less than two Months; and the <hi>FRENCH-POX</hi> with all its Accidents, as swelling of the Cods and Groin, Running of the Reins, Ulcers in the Yard or Throat, falling away of the Pallat, Rotteness in the Grisse-bone of the Nose, Sores and Pimples over the whole Body have been cured by him in less than three Weeks, and for the cure of this Distemper he invites the ablest Physician of what Kingdom soever, to wager Life or Goods (for he will venture either) to perform it sooner and safer, if the Patient will but keep his Directions, which are so easy that a new born Child, if it had but sense enough, might observe them; through Gods blessing not having yet met with his equal. He hath Cured such as have been troubled with the Stone thirty years in 9 days. He has been as successful in all other Distempers, which are too many to particularize. Such Persons (whether Sea men or Land-men) as desire to have either inward Physick or outward Medicaments, ready by them, upon all occasions, may (upon giving him two or three days notice) be furnished by him, with Dir<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ctions how to take or apply them; which shall be so excellent in their kind, that he dares engage they shall do as much good in one Week, as what another may give shall do in 3 Months; for he having travelled most Countries, has learned by Experience, what physick is proper for each Climate. Be not scrupulous in observing times, lest you provoke God to wrath, for with him all seasons are proper for restoring his people to Health.</p>
+               <p>If any good honest Man have a well educated Son, that he would have instructed in Physic, this Doctor is willing upon any reasonable Terms to undertake it, and make him equal with the best of Outlandish Physicians.</p>
+               <p>
+                  <hi>From his House at the lower End of</hi> Cross-Street <hi>in</hi> Hatton-Garden, <hi>near the</hi> Cradle and Coffin, <hi>and next door but one to a Carpenters yard, and right over against a Meal Shop; where he may be Spoke with any convenient hour of the Day.</hi>
+               </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
